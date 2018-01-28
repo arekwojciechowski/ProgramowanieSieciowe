@@ -1,0 +1,12 @@
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKT\PROJEKT\bin\Debug\PROJEKT.exe.config
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKT\PROJEKT\bin\Debug\PROJEKT.exe
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKT\PROJEKT\bin\Debug\PROJEKT.pdb
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKT\PROJEKT\obj\Debug\PROJEKT.csprojResolveAssemblyReference.cache
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKT\PROJEKT\obj\Debug\PROJEKT.Form1.resources
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKT\PROJEKT\obj\Debug\PROJEKT.Properties.Resources.resources
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKT\PROJEKT\obj\Debug\PROJEKT.csproj.GenerateResource.Cache
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKT\PROJEKT\obj\Debug\PROJEKT.exe
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKT\PROJEKT\obj\Debug\PROJEKT.pdb
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKTv2\PROJEKT\bin\Debug\PROJEKT.exe.config
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKTv2\PROJEKT\obj\Debug\PROJEKT.exe
+D:\SEMESTR 999 - MGR 2\Programowanie Sieciowe\PROJEKTv2\PROJEKT\obj\Debug\PROJEKT.pdb
